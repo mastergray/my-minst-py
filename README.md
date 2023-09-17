@@ -6,9 +6,8 @@ Implements a class for working with a normalized MINST dataset
 
   From ChatGPT:
 
-```
-The MNIST dataset, which stands for "Modified National Institute of Standards and Technology," is a widely used dataset in the field of machine learning and computer vision. It is a collection of handwritten digits, with each digit ranging from 0 to 9. The MNIST dataset is commonly used for tasks such as digit recognition, classification, and image analysis. It is a fundamental dataset often used to benchmark and develop machine learning algorithms, especially in the context of deep learning and neural networks.
-```
+> The MNIST dataset, which stands for "Modified National Institute of Standards and Technology," is a widely used dataset in the field of machine learning and computer vision. It is a collection of handwritten digits, with each digit ranging from 0 to 9. The MNIST dataset is commonly used for tasks such as digit recognition, classification, and image analysis. It is a fundamental dataset often used to benchmark and develop machine learning algorithms, especially in the context of deep learning and neural networks.
+
 
 ## Overview 
 
